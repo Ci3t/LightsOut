@@ -1,6 +1,6 @@
 ### Lights Out Game 
 - Practicing logic 
-
+- Turn off all lights to win
 ## fun game to play with friends
 
 ## Demo :
